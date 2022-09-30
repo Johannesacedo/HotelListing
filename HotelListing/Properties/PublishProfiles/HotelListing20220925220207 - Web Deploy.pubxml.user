@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAqKKNcrjhCUKhlsTI5cfougAAAAACAAAAAAAQZgAAAAEAACAAAAAtb3hQ486FP2QaRAymn8avF69hivxyR0wK3TivkKy/UwAAAAAOgAAAAAIAACAAAABSpt/GCHzUDG2K8GzcxyXbSJcCLcxKwXA9pAxRt7gqaoAAAADR2mnGeHQdlvtft+vsuuOTXEOWZ4uWIum6M0iuIMhrbb5V+VhNYTrl5y25gbpOSzAW7QuvbGI0aZISYj/Iwpmprqz9Iuys28UIm4z3+WcJ6fQzm/ah2PjPR4fMITxHmC+N87dnbucR9MgRft2Nk+mxmMpocHvR8ZUjmUc2DQG/9UAAAAC1LWWrnIaqtnzxsLZwTt3Hz+ASMeVqOL+d0djzTAfbLU3TBPlWQTn8uHDpI83DRO3uh50K0CzbB265DNyV5Gt8</EncryptedPassword>
+    <History>False|2022-09-25T14:31:49.1174996Z;False|2022-09-25T22:28:49.1275147+08:00;True|2022-09-25T22:18:18.4269997+08:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="HotelListing.Data.DatabaseContext">
+      <Value>Data Source=tcp:hotel-listing-dbserver.database.windows.net,1433%3bInitial Catalog=HotelListing_db%3bUser Id=hans%40hotel-listing-dbserver%3bPassword=hans_dev</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "apis1": {
+      "restored": true,
+      "restoreTime": "2022-09-25T14:17:23.2444531Z"
+    },
+    "identityapp1": {
+      "restored": true,
+      "restoreTime": "2022-09-25T14:17:26.6437625Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2022-09-25T14:16:35.4790893Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "a39e4d58-0014-4c44-85f2-dbbd34b9a471"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "hotel_listing_api"
+    }
+  }
+}
